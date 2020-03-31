@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/AXENYA-TOOLS-IOS-umbrella.h</key>
 		<data>
-		n5ZiATE6h/Lm73SJ4oNCot0wJu8=
+		tTeRo/X6VTdjId/9XXxuukrOZG8=
 		</data>
 		<key>Headers/AXENYA_TOOLS_IOS-Swift.h</key>
 		<data>
@@ -18,11 +18,11 @@
 		</data>
 		<key>Modules/AXENYA_TOOLS_IOS.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		B2kOA2/vyuDV93+pmWZD9oeq9m8=
+		k5k26OT1D2zuYxc3Dtgdp1/Y/eo=
 		</data>
 		<key>Modules/AXENYA_TOOLS_IOS.swiftmodule/Project/x86_64.swiftsourceinfo</key>
 		<data>
-		B2kOA2/vyuDV93+pmWZD9oeq9m8=
+		k5k26OT1D2zuYxc3Dtgdp1/Y/eo=
 		</data>
 		<key>Modules/AXENYA_TOOLS_IOS.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -30,7 +30,7 @@
 		</data>
 		<key>Modules/AXENYA_TOOLS_IOS.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		2gMFbEyQzJMKP1T1JSWuy1MLrlc=
+		E1LvBR/drj5AYxAwKsj/UTzdlRY=
 		</data>
 		<key>Modules/AXENYA_TOOLS_IOS.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/AXENYA_TOOLS_IOS.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		2gMFbEyQzJMKP1T1JSWuy1MLrlc=
+		E1LvBR/drj5AYxAwKsj/UTzdlRY=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -51,11 +51,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			n5ZiATE6h/Lm73SJ4oNCot0wJu8=
+			tTeRo/X6VTdjId/9XXxuukrOZG8=
 			</data>
 			<key>hash2</key>
 			<data>
-			b2iEkVeR6jCvnpbVqmiVvlBjT61VdXmU7gSSFuyrNqI=
+			87gcctS38bHs1uanEEoE/bMukkBkAjbXRUmR/QGJz9w=
 			</data>
 		</dict>
 		<key>Headers/AXENYA_TOOLS_IOS-Swift.h</key>
@@ -73,22 +73,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			B2kOA2/vyuDV93+pmWZD9oeq9m8=
+			k5k26OT1D2zuYxc3Dtgdp1/Y/eo=
 			</data>
 			<key>hash2</key>
 			<data>
-			qC5npQR2iGUymySrj5JgYKwZKeep46gLUZ7+lU8Y53U=
+			16PTyYqRzk1EyHeRTjbZWE+1Kel+RFP2fW3R1TRlL9o=
 			</data>
 		</dict>
 		<key>Modules/AXENYA_TOOLS_IOS.swiftmodule/Project/x86_64.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			B2kOA2/vyuDV93+pmWZD9oeq9m8=
+			k5k26OT1D2zuYxc3Dtgdp1/Y/eo=
 			</data>
 			<key>hash2</key>
 			<data>
-			qC5npQR2iGUymySrj5JgYKwZKeep46gLUZ7+lU8Y53U=
+			16PTyYqRzk1EyHeRTjbZWE+1Kel+RFP2fW3R1TRlL9o=
 			</data>
 		</dict>
 		<key>Modules/AXENYA_TOOLS_IOS.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -106,11 +106,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			2gMFbEyQzJMKP1T1JSWuy1MLrlc=
+			E1LvBR/drj5AYxAwKsj/UTzdlRY=
 			</data>
 			<key>hash2</key>
 			<data>
-			KJQpPbU96mzDikSjxkN/wj/oMinO+5RKz1MspRLDIRw=
+			kDSqZHLKhXPNMuDx5zFneomxd0S+uwVofUB5qhPRMBY=
 			</data>
 		</dict>
 		<key>Modules/AXENYA_TOOLS_IOS.swiftmodule/x86_64.swiftdoc</key>
@@ -128,11 +128,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			2gMFbEyQzJMKP1T1JSWuy1MLrlc=
+			E1LvBR/drj5AYxAwKsj/UTzdlRY=
 			</data>
 			<key>hash2</key>
 			<data>
-			KJQpPbU96mzDikSjxkN/wj/oMinO+5RKz1MspRLDIRw=
+			kDSqZHLKhXPNMuDx5zFneomxd0S+uwVofUB5qhPRMBY=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
