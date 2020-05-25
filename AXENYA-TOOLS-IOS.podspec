@@ -30,7 +30,7 @@ Pod::Spec.new do |s|
   s.public_header_files = '**/*.h'
   s.vendored_frameworks = '**/AXENYA_TOOLS_IOS.framework'
   s.ios.frameworks = 'Foundation'
-  s.ios.deployment_target = '12.0'
+  s.ios.deployment_target = '8.0'
   
   # s.resource_bundles = {
   #   'AXENYA-TOOLS-IOS' => ['./AXENYA-TOOLS/Assets/*.png']
