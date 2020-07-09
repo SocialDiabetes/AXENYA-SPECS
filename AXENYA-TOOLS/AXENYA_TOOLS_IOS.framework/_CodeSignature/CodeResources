@@ -4,33 +4,281 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Headers/AXENYA_TOOLS_IOS-Swift.h</key>
+		<data>
+		pR4qZsLzjRDaic9e6F19to3W1DM=
+		</data>
 		<key>Headers/AXENYA_TOOLS_IOS.h</key>
 		<data>
 		ccl7TGdnVly1lojz1cNbc8WkmGQ=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		E1TOeXa0IrSrvTYPTL8zhsSn/4c=
+		8YjyWucoqKeVNmEWG5GzmTiW7YM=
+		</data>
+		<key>Modules/AXENYA_TOOLS_IOS.swiftmodule/Project/arm.swiftsourceinfo</key>
+		<data>
+		qEk/4XZsKWWKgwWUBkGY4dTCzxU=
+		</data>
+		<key>Modules/AXENYA_TOOLS_IOS.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
+		<data>
+		XGG5CLE+yn+vHxI+XQJ521VFRnE=
+		</data>
+		<key>Modules/AXENYA_TOOLS_IOS.swiftmodule/Project/arm64.swiftsourceinfo</key>
+		<data>
+		XGG5CLE+yn+vHxI+XQJ521VFRnE=
+		</data>
+		<key>Modules/AXENYA_TOOLS_IOS.swiftmodule/Project/armv7-apple-ios.swiftsourceinfo</key>
+		<data>
+		qEk/4XZsKWWKgwWUBkGY4dTCzxU=
+		</data>
+		<key>Modules/AXENYA_TOOLS_IOS.swiftmodule/Project/armv7.swiftsourceinfo</key>
+		<data>
+		qEk/4XZsKWWKgwWUBkGY4dTCzxU=
+		</data>
+		<key>Modules/AXENYA_TOOLS_IOS.swiftmodule/arm.swiftdoc</key>
+		<data>
+		uv6EHGUw6mGL3Vv+3jEabnL5uP0=
+		</data>
+		<key>Modules/AXENYA_TOOLS_IOS.swiftmodule/arm.swiftmodule</key>
+		<data>
+		ab5uxw4GdlCJnNlSVJG6NCFGXIc=
+		</data>
+		<key>Modules/AXENYA_TOOLS_IOS.swiftmodule/arm64-apple-ios.swiftdoc</key>
+		<data>
+		Lmmkf3b75xZjRi39EzCBc5Pt9Hw=
+		</data>
+		<key>Modules/AXENYA_TOOLS_IOS.swiftmodule/arm64-apple-ios.swiftmodule</key>
+		<data>
+		E8hya7XdDXKYc7cJ6HvrnRXurMI=
+		</data>
+		<key>Modules/AXENYA_TOOLS_IOS.swiftmodule/arm64.swiftdoc</key>
+		<data>
+		Lmmkf3b75xZjRi39EzCBc5Pt9Hw=
+		</data>
+		<key>Modules/AXENYA_TOOLS_IOS.swiftmodule/arm64.swiftmodule</key>
+		<data>
+		E8hya7XdDXKYc7cJ6HvrnRXurMI=
+		</data>
+		<key>Modules/AXENYA_TOOLS_IOS.swiftmodule/armv7-apple-ios.swiftdoc</key>
+		<data>
+		uv6EHGUw6mGL3Vv+3jEabnL5uP0=
+		</data>
+		<key>Modules/AXENYA_TOOLS_IOS.swiftmodule/armv7-apple-ios.swiftmodule</key>
+		<data>
+		ab5uxw4GdlCJnNlSVJG6NCFGXIc=
+		</data>
+		<key>Modules/AXENYA_TOOLS_IOS.swiftmodule/armv7.swiftdoc</key>
+		<data>
+		uv6EHGUw6mGL3Vv+3jEabnL5uP0=
+		</data>
+		<key>Modules/AXENYA_TOOLS_IOS.swiftmodule/armv7.swiftmodule</key>
+		<data>
+		ab5uxw4GdlCJnNlSVJG6NCFGXIc=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		vBKk4jU9eEaUf5a5sD0ONhukB/A=
+		WTbuxUfI2+gW4CmNz8iVAX2F+Jw=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Headers/AXENYA_TOOLS_IOS-Swift.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			pR4qZsLzjRDaic9e6F19to3W1DM=
+			</data>
+			<key>hash2</key>
+			<data>
+			A5OsdoO+oqAN84frcV0yfs9qHasfS+hSypTi37SC/js=
+			</data>
+		</dict>
 		<key>Headers/AXENYA_TOOLS_IOS.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			ccl7TGdnVly1lojz1cNbc8WkmGQ=
+			</data>
 			<key>hash2</key>
 			<data>
 			Yis1EfJpLewzEHcnzL3zlhR11tgBIkb3XgyyS7qabQE=
 			</data>
 		</dict>
-		<key>Modules/module.modulemap</key>
+		<key>Modules/AXENYA_TOOLS_IOS.swiftmodule/Project/arm.swiftsourceinfo</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			qEk/4XZsKWWKgwWUBkGY4dTCzxU=
+			</data>
 			<key>hash2</key>
 			<data>
-			y4KAQc/viAQeaJHNoMe0cMIhl0FoqWExGn3aszaBMt8=
+			yCdEWFVrxXgF9N9n0wD91GaXGjL/u71I5731snp+12U=
+			</data>
+		</dict>
+		<key>Modules/AXENYA_TOOLS_IOS.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			XGG5CLE+yn+vHxI+XQJ521VFRnE=
+			</data>
+			<key>hash2</key>
+			<data>
+			NIxnyVu7UTdokf9SfQqvjsnBPvMqIH2+JYvGzZRQpM0=
+			</data>
+		</dict>
+		<key>Modules/AXENYA_TOOLS_IOS.swiftmodule/Project/arm64.swiftsourceinfo</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			XGG5CLE+yn+vHxI+XQJ521VFRnE=
+			</data>
+			<key>hash2</key>
+			<data>
+			NIxnyVu7UTdokf9SfQqvjsnBPvMqIH2+JYvGzZRQpM0=
+			</data>
+		</dict>
+		<key>Modules/AXENYA_TOOLS_IOS.swiftmodule/Project/armv7-apple-ios.swiftsourceinfo</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			qEk/4XZsKWWKgwWUBkGY4dTCzxU=
+			</data>
+			<key>hash2</key>
+			<data>
+			yCdEWFVrxXgF9N9n0wD91GaXGjL/u71I5731snp+12U=
+			</data>
+		</dict>
+		<key>Modules/AXENYA_TOOLS_IOS.swiftmodule/Project/armv7.swiftsourceinfo</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			qEk/4XZsKWWKgwWUBkGY4dTCzxU=
+			</data>
+			<key>hash2</key>
+			<data>
+			yCdEWFVrxXgF9N9n0wD91GaXGjL/u71I5731snp+12U=
+			</data>
+		</dict>
+		<key>Modules/AXENYA_TOOLS_IOS.swiftmodule/arm.swiftdoc</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			uv6EHGUw6mGL3Vv+3jEabnL5uP0=
+			</data>
+			<key>hash2</key>
+			<data>
+			Ddiru4W2YMsfjIKkXsYkuB8lyKj/9PC3hGG0m0NbN0U=
+			</data>
+		</dict>
+		<key>Modules/AXENYA_TOOLS_IOS.swiftmodule/arm.swiftmodule</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ab5uxw4GdlCJnNlSVJG6NCFGXIc=
+			</data>
+			<key>hash2</key>
+			<data>
+			/ho3DQa5no67H6U0AQb80sLioJvHX9mLqpsMPtsBSPk=
+			</data>
+		</dict>
+		<key>Modules/AXENYA_TOOLS_IOS.swiftmodule/arm64-apple-ios.swiftdoc</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Lmmkf3b75xZjRi39EzCBc5Pt9Hw=
+			</data>
+			<key>hash2</key>
+			<data>
+			ZldT1Y9INzAiNXR6bIFJ+dSL9Ha9bjOxPS3slqD87e0=
+			</data>
+		</dict>
+		<key>Modules/AXENYA_TOOLS_IOS.swiftmodule/arm64-apple-ios.swiftmodule</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			E8hya7XdDXKYc7cJ6HvrnRXurMI=
+			</data>
+			<key>hash2</key>
+			<data>
+			GDTCkEIfnXB9TD9BDsd/e3X9n3aeXZ1ghi/2pHWwZhE=
+			</data>
+		</dict>
+		<key>Modules/AXENYA_TOOLS_IOS.swiftmodule/arm64.swiftdoc</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Lmmkf3b75xZjRi39EzCBc5Pt9Hw=
+			</data>
+			<key>hash2</key>
+			<data>
+			ZldT1Y9INzAiNXR6bIFJ+dSL9Ha9bjOxPS3slqD87e0=
+			</data>
+		</dict>
+		<key>Modules/AXENYA_TOOLS_IOS.swiftmodule/arm64.swiftmodule</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			E8hya7XdDXKYc7cJ6HvrnRXurMI=
+			</data>
+			<key>hash2</key>
+			<data>
+			GDTCkEIfnXB9TD9BDsd/e3X9n3aeXZ1ghi/2pHWwZhE=
+			</data>
+		</dict>
+		<key>Modules/AXENYA_TOOLS_IOS.swiftmodule/armv7-apple-ios.swiftdoc</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			uv6EHGUw6mGL3Vv+3jEabnL5uP0=
+			</data>
+			<key>hash2</key>
+			<data>
+			Ddiru4W2YMsfjIKkXsYkuB8lyKj/9PC3hGG0m0NbN0U=
+			</data>
+		</dict>
+		<key>Modules/AXENYA_TOOLS_IOS.swiftmodule/armv7-apple-ios.swiftmodule</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ab5uxw4GdlCJnNlSVJG6NCFGXIc=
+			</data>
+			<key>hash2</key>
+			<data>
+			/ho3DQa5no67H6U0AQb80sLioJvHX9mLqpsMPtsBSPk=
+			</data>
+		</dict>
+		<key>Modules/AXENYA_TOOLS_IOS.swiftmodule/armv7.swiftdoc</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			uv6EHGUw6mGL3Vv+3jEabnL5uP0=
+			</data>
+			<key>hash2</key>
+			<data>
+			Ddiru4W2YMsfjIKkXsYkuB8lyKj/9PC3hGG0m0NbN0U=
+			</data>
+		</dict>
+		<key>Modules/AXENYA_TOOLS_IOS.swiftmodule/armv7.swiftmodule</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ab5uxw4GdlCJnNlSVJG6NCFGXIc=
+			</data>
+			<key>hash2</key>
+			<data>
+			/ho3DQa5no67H6U0AQb80sLioJvHX9mLqpsMPtsBSPk=
+			</data>
+		</dict>
+		<key>Modules/module.modulemap</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			WTbuxUfI2+gW4CmNz8iVAX2F+Jw=
+			</data>
+			<key>hash2</key>
+			<data>
+			KxPjwxPOlMO9kkGpnk6VK3Yk7hT4KBQA9bjrJWw8eZs=
 			</data>
 		</dict>
 	</dict>

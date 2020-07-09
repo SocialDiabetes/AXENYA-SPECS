@@ -4,3 +4,8 @@ framework module AXENYA_TOOLS_IOS {
   export *
   module * { export * }
 }
+
+module AXENYA_TOOLS_IOS.Swift {
+    header "AXENYA_TOOLS_IOS-Swift.h"
+    requires objc
+}
