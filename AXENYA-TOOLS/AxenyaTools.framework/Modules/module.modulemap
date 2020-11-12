@@ -1,0 +1,11 @@
+framework module AxenyaTools {
+  umbrella header "AxenyaTools.h"
+
+  export *
+  module * { export * }
+}
+
+module AxenyaTools.Swift {
+    header "AxenyaTools-Swift.h"
+    requires objc
+}
